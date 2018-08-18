@@ -4,7 +4,7 @@
   Plugin URI: http://www.example.com
   Description: Plugin to listing news items on demand.
   Version: 1.0
-  Author: Ankit 
+  Author: Arun Kumar
   Author URI: http://www.example.com
  */
 
