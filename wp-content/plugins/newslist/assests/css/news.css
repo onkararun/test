@@ -1,0 +1,88 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin-top: 20px;
+}
+
+td {
+    border: 2px solid #dddddd;
+   
+    padding: 8px;
+    text-align: center;
+    font-size:16px;
+}
+ th{
+
+ 	 border: 2px solid #dddddd;
+   
+    padding: 8px;
+     font-size: 16px;
+    text-align: center;
+    color:black;
+    background-color: White;
+ }
+
+tr:nth-child(odd) {
+    background-color: white;
+}
+
+
+.form{
+	margin-left: 40px;
+}
+.main
+{
+    display: flex;
+    width:100%;
+}
+.child1{
+    width:74%;
+}
+.child2{
+    width:26%;
+}
+ul{
+    margin-top: 30px;
+    border:2px solid grey;
+    text-align: center;
+    margin-right: 30px;
+}
+#parent_category{
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+#child_category{
+    font-size: 16px;
+     margin-top: 20px;
+}
+form{
+    margin-top: 10px;
+    float: center;
+}
+
+#button{
+     background:none!important;
+     color:grey;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     /*border is optional*/
+     
+  font-size: 16px;
+  margin-top: 8px;
+     cursor: pointer;
+}
+li{
+    margin-top: 8px;
+}
+.pagination a{
+    margin-right: 16px;
+     
+    text-align: center;
+    font-size: 16px;
+}
+.pagination {
+    text-align: center;
+}
